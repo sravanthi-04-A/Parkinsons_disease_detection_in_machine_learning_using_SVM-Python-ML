@@ -1,6 +1,6 @@
-# 🧠 Parkinson’s Disease Detection Using SVM
+#  Parkinson’s Disease Detection Using SVM
 
-## 📌 Overview
+##  Overview
 
 This project focuses on detecting Parkinson’s Disease using a supervised machine learning approach.  
 A Support Vector Machine (SVM) classifier is trained on biomedical voice measurement data to predict whether a patient has Parkinson’s Disease.
@@ -9,7 +9,7 @@ The objective is to build a reliable, non-invasive early detection model using s
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 Parkinson’s Disease is a progressive neurological disorder that affects movement and speech patterns. Early detection plays an important role in improving treatment outcomes.
 
@@ -22,7 +22,7 @@ This project aims to:
 
 ---
 
-## 🗂 Dataset Information
+##  Dataset Information
 
 - The dataset consists of biomedical voice measurements.
 - Each row represents an individual patient.
@@ -33,7 +33,7 @@ This project aims to:
 
 ---
 
-## ⚙️ Technologies Used
+##  Technologies Used
 
 - Python  
 - Pandas  
@@ -44,7 +44,7 @@ This project aims to:
 
 ---
 
-## 🔍 Machine Learning Workflow
+##  Machine Learning Workflow
 
 ### 1️⃣ Data Preprocessing
 - Checked and handled missing values  
@@ -76,11 +76,11 @@ This project aims to:
 
 Below is the confusion matrix generated from the test dataset:
 
-![Confusion Matrix](confusion_matrix.png)
+Confusion_matrix.jpeg
 
 ---
 
-## 🚀 How to Run This Project
+##  How to Run This Project
 
 ### Step 1: Clone the repository
 
