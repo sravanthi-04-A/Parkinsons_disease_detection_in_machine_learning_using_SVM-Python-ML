@@ -79,10 +79,3 @@ Below is the confusion matrix generated from the test dataset:
 ![Confusion Matrix](Confusion_matrix.png)
 
 ---
-
-##  How to Run This Project
-
-### Step 1: Clone the repository
-
-```bash
-git clone https://github.com/your-username/your-repository-name.git
