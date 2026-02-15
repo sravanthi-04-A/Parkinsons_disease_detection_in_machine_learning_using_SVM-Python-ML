@@ -76,7 +76,7 @@ This project aims to:
 
 Below is the confusion matrix generated from the test dataset:
 
-Confusion_matrix.png
+![Confusion Matrix](confusion_matrix.png)
 
 ---
 
